@@ -1,11 +1,11 @@
---Part 1
+-- Part 1
 
--- int ID; String name; String employer; String skills
+-- INT ID; VARCHAR name; VARCHAR employer; VARCHAR skills
 
---Part 2
+-- Part 2
 
--- SELECT name FROM employer WHERE location="St. Louis City";
+SELECT name FROM employer WHERE location="St. Louis City";
 
---Part 3
+-- Part 3
 
---Part 4
+-- Part 4
